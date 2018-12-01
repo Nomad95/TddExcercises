@@ -1,6 +1,5 @@
-package services;
+package student_list;
 
-import factory.TestFactory;
 import org.junit.Assert;
 import org.junit.Test;
 import studentList.model.Student;

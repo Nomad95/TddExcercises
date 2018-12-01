@@ -1,4 +1,4 @@
-package services;
+package student_list;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.Lists;
@@ -8,10 +8,7 @@ import studentList.model.Grade;
 import studentList.services.LaboratoryClass;
 import studentList.model.Student;
 import studentList.model.DiaryEntry;
-import studentList.services.grades.CollegeGrades;
-import studentList.services.grades.Grades;
 
-import java.time.LocalDate;
 import java.util.List;
 
 import static factory.TestFactory.*;

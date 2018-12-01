@@ -1,4 +1,4 @@
-package services;
+package student_list;
 
 import org.junit.Assert;
 import org.junit.Test;
